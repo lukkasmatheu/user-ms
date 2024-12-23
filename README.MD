@@ -6,6 +6,7 @@ Aplicação foi desenvolvida em java 21, utilizando :
 * Spring-security
 * mongo-db
 * junit5
+* Swagger
 
 
 Para realizar o uso das api é necessario realizar a autenticação basica.
